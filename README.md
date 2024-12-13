@@ -17,7 +17,7 @@ Aplikasi ini memiliki 3 role:
 1. **Clone atau Download Repository:**
 
     ```bash
-    git clone https://github.com/a3m-nix/klinik-app.git
+    git clone https://github.com/a3m-nix/klinik-app.gi](https://github.com/yaasin36/BK-WD.git
     ```
 
 2. **Buka Project dengan VSCode lalu Rename File `.env.example` menjadi `.env` (jika dilinux):**
@@ -50,30 +50,24 @@ Aplikasi ini memiliki 3 role:
     php artisan key:generate
     ```
 
-6. **Create Symbolic Link for Storage:**
 
-    ```bash
-    php artisan storage:link
-    ```
-
-7. **Run Database Migrations:**
+6. **Run Database Migrations:**
 
     ```bash
     php artisan migrate
     ```
 
-8. **Seed Database:**
+7. **Seed Database:**
 
     ```bash
     php artisan db:seed
     ```
 
-9. **Run Artisan Serve:**
+8. **Run Artisan Serve:**
 
     ```bash
     php artisan serve
     ```
 
-10. **Login dengan Akun:**
-    - Pengguna: admin@admin.com
-    - Kata Sandi: 1
+10. **Buat akun Admin melalui database(PhpMyAdmin):**
+

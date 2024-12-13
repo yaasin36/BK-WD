@@ -17,7 +17,7 @@ Aplikasi ini memiliki 3 role:
 1. **Clone atau Download Repository:**
 
     ```bash
-    git clone https://github.com/a3m-nix/klinik-app.gi](https://github.com/yaasin36/BK-WD.git
+    git clone https://github.com/yaasin36/BK-WD.git
     ```
 
 2. **Buka Project dengan VSCode lalu Rename File `.env.example` menjadi `.env` (jika dilinux):**
